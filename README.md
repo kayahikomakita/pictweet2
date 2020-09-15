@@ -1,3 +1,4 @@
+![result](https://user-images.githubusercontent.com/68247921/93209348-f8d4b280-f798-11ea-9309-343c61f29041.gif)
 
 
 <!-- <h1 align="center">フリーマーケットサイト『FURIMA』</h1>
