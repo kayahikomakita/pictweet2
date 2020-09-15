@@ -1,20 +1,14 @@
-<h1 align="center">フリーマーケットサイト『FURIMA』</h1>
+<!-- <h1 align="center">フリーマーケットサイト『FURIMA』</h1>
 
 ![top_page](https://github.com/rhyth09/fleamarket_sample_80e/blob/master/24ca3b3def8269d4d685fe37a65fb1b3.jpg)
 
 ## 概要
 - メルカリクローンのフリーマーケットサイトです。
 - テックキャンプ エンジニア転職 80期短期集中コースEチームで作成。
-- 作成期間 2020/8/4 ~ 2020/8/28
+- 作成期間 2020/8/4 ~ 2020/8/28 -->
 
-## 主な使用言語
-<a><img src="https://github.com/rhyth09/fleamarket_sample_80e/blob/master/71774533-1ddf1780-2fb4-11ea-8560-753bed352838.png" width="70px;" /></a> <!-- rubyのロゴ -->
-<a><img src="https://github.com/rhyth09/fleamarket_sample_80e/blob/master/71774548-731b2900-2fb4-11ea-99ba-565546c5acb4.png" height="60px;" /></a> <!-- RubyOnRailsのロゴ -->
-<a><img src="https://github.com/rhyth09/fleamarket_sample_80e/blob/master/71774618-b32edb80-2fb5-11ea-9050-d5929a49e9a5.png" height="60px;" /></a> <!-- Hamlのロゴ -->
-<a><img src="https://github.com/rhyth09/fleamarket_sample_80e/blob/master/71774644-115bbe80-2fb6-11ea-822c-568eabde5228.png" height="60px" /></a> <!-- Scssのロゴ -->
-<a><img src="https://github.com/rhyth09/fleamarket_sample_80e/blob/master/javascript_eyecatch.jpg" height="65px;" /></a> <!-- Javascriptのロゴ -->
 
-## 機能紹介
+<!-- ## 機能紹介
 - 新規会員登録・ログインをすると商品の購入、出品ができます。
 - 新規会員登録、ログインがお済みでない方も商品の一覧、詳細を閲覧可能です。
 - 決済方法は、ご自身のクレジットカードを登録して購入できます。
@@ -184,4 +178,4 @@
 ### Association
 - belongs_to :user
 - belongs_to :item
-
+ -->
