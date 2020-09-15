@@ -1,6 +1,6 @@
 <h1 align="center">くさつ販促アプリ</h1>
 
-
+![711d15b1e432da5a095a4a483c501f9b](https://user-images.githubusercontent.com/68247921/93254643-9d73e600-f7d3-11ea-8fdc-a013a5064cbb.jpg)
 
 ## 概要
 - 草津温泉のお土産屋さん「草津たまごファーム」の商品の販促サイトです。
