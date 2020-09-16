@@ -25,8 +25,11 @@
 ![result](https://user-images.githubusercontent.com/68247921/93271620-b1791100-f7ee-11ea-8d17-dbafee4ab603.gif)
 
 
-
 ## このアプリで、できること（３）
+- トップページ左上の、草津温泉をクリックすると、ショップの前の草津温泉のストリートビューに遷移するので、観光気分を味わうことができます。
+![result](https://user-images.githubusercontent.com/68247921/93277855-f35d8380-f7fd-11ea-998b-3f167c67ec6f.gif)
+
+
 
 
 
