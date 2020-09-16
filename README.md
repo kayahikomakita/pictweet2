@@ -36,38 +36,36 @@
 - 同じ要領で、全国の全ての飲食店で使える仕様にする予定です。
 
 ## 使用言語
+Ruby, Ruby on Rails, HTML, CSS
 
-
-
-
-## DB設計
-### Usersテーブル
+# DB設計
+## Usersテーブル
 |Column|Type|Options|
 |------|----|-------|
 |nickname|string|null: false|
 |email|string|null: false, unique: true|
 |password|string|null: false|
-#### Association
-has_many :tweets
-has_many :comments
+### Association
+- has_many :tweets
+- has_many :comments
 
-### Tweets_tableテーブル
+## Tweets_tableテーブル
 |Column|Type|Options|
 |------|----|-------|
 |tweet|text|null:false|
 |image|string|null: false|
 |user_id|references|null:false, foreign_key: true|
-#### Association
-belongs_to :user
-has_many :comments
+### Association
+- belongs_to :user
+- has_many :comments
 
-### Comments_tableテーブル
+## Comments_tableテーブル
 |Column|Type|Options|
 |------|----|-------|
 |comment|text|null:false|
 |tweet_id|references|null:false, foreign_key: true|
 |user_id|references|null:false, foreign_key: true|
-#### Association
+### Association
 - belongs_to :tweet
 - belongs_to :user
 
