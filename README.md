@@ -49,7 +49,7 @@ Ruby, Ruby on Rails, HTML, CSS
 - has_many :tweets
 - has_many :comments
 
-## Tweets_tableテーブル
+## Tweetsテーブル
 |Column|Type|Options|
 |------|----|-------|
 |tweet|text|null:false|
@@ -59,7 +59,7 @@ Ruby, Ruby on Rails, HTML, CSS
 - belongs_to :user
 - has_many :comments
 
-## Comments_tableテーブル
+## Commentsテーブル
 |Column|Type|Options|
 |------|----|-------|
 |comment|text|null:false|
