@@ -22,6 +22,7 @@
 
 ## このアプリで、できること（２）
 - トップページの投稿一覧で、投稿者である店員名をクリックすると、ショップのホームページに遷移します。
+
 ![result](https://user-images.githubusercontent.com/68247921/93271620-b1791100-f7ee-11ea-8d17-dbafee4ab603.gif)
 
 
@@ -30,7 +31,8 @@
 
 ![result](https://user-images.githubusercontent.com/68247921/93277855-f35d8380-f7fd-11ea-998b-3f167c67ec6f.gif)
 
-
+## 実装予定の内容
+- 同じ要領で、全国の全ての飲食店で使える仕様にする。
 
 
 
