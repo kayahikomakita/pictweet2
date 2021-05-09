@@ -1,6 +1,6 @@
 <h1 align="center">くさつ販促アプリ</h1>
 
-![プリン投稿](https://user-images.githubusercontent.com/68247921/93264729-84befc80-f7e2-11ea-909a-fbbaab96cba7.jpg)
+![プリン投稿](https://user-images.githubusercontent.com/68247921/117586915-2d491480-b156-11eb-96b6-27e0b257ce00.jpeg)
 
 ## 概要
 - 草津温泉のお土産屋さん「草津たまごファーム」の商品の販促アプリです。
@@ -30,7 +30,7 @@
 ## このアプリで、できること（３）
 - トップページ左上の、草津温泉をクリックするとショップの前のストリートビューに遷移するので、お客さんは観光気分を味わえます。
 
-![result](https://user-images.githubusercontent.com/68247921/93277855-f35d8380-f7fd-11ea-998b-3f167c67ec6f.gif)
+![result](https://user-images.githubusercontent.com/68247921/117587860-e7db1600-b15a-11eb-9618-e92be2d84b9e.gif)
 
 ## 実装予定の内容
 - 同じ要領で、全国の全ての飲食店で使える仕様にする予定です。
