@@ -24,7 +24,7 @@
 ## このアプリで、できること（２）
 - トップページの投稿一覧で、投稿者である店員名をクリックすると、ショップのホームページに遷移します。
 
-![result](https://user-images.githubusercontent.com/68247921/93271620-b1791100-f7ee-11ea-8d17-dbafee4ab603.gif)
+![result](https://user-images.githubusercontent.com/68247921/117588235-12c66980-b15d-11eb-9682-3728fd708301.gif)
 
 
 ## このアプリで、できること（３）
