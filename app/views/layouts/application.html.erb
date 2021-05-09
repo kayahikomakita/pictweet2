@@ -7,11 +7,14 @@
 
     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+  
   </head>
   <body>
     <header class="header">
       <div class="header__bar row">
         <h1 class="grid-6"><a href="https://www.google.com/maps/place/%E8%8D%89%E6%B4%A5%E6%B8%A9%E6%B3%89/@36.6232074,138.596837,3a,75y,140h,90t/data=!3m8!1e1!3m6!1sAF1QipPRuzwnnvecubcJwAQ3u4pUMjTArLDorCNhSb77!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPRuzwnnvecubcJwAQ3u4pUMjTArLDorCNhSb77%3Dw203-h100-k-no-pi-0-ya104.27682-ro-0-fo100!7i9506!8i4753!4m7!3m6!1s0x601de6537acdb233:0x12ef9439de3e2003!8m2!3d36.6228668!4d138.5968055!14m1!1BCgIgARICCAI?hl=ja">草津温泉virtual観光はコチラ</a></h1>
+
+
         <% if user_signed_in? %>
           <div class="user_nav grid-6">
             <span><%= current_user.nickname %>
