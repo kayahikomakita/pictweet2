@@ -41,23 +41,21 @@
 Ruby, Ruby on Rails, RSpec, HTML, CSS
 
 # テストコード
-## nicknameが空の場合登録できないことを確かめるテスト
-## emailが空の場合登録できないことを確かめるテスト
 ## ユーザーの登録時に確認が必要なバリデーションのテスト
-nicknameとemail、passwordとpassword_confirmationが存在すれば登録できること
-nicknameが空では登録できないこと
-emailが空では登録できないこと
-passwordが空では登録できないこと
-passwordが存在してもpassword_confirmationが空では登録できないこと
-nicknameが7文字以上であれば登録できないこと
-nicknameが6文字以下では登録できること
-重複したemailが存在する場合登録できないこと
-passwordが6文字以上であれば登録できること
-passwordが5文字以下であれば登録できないこと
+- nicknameとemail、passwordとpassword_confirmationが存在すれば登録できること
+- nicknameが空では登録できないこと
+- emailが空では登録できないこと
+- passwordが空では登録できないこと
+- passwordが存在してもpassword_confirmationが空では登録できないこと
+- nicknameが7文字以上であれば登録できないこと
+- nicknameが6文字以下では登録できること
+- 重複したemailが存在する場合登録できないこと
+- passwordが6文字以上であれば登録できること
+- passwordが5文字以下であれば登録できないこと
 ## コントローラーのテスト
-newアクション
-editアクション
-indexアクション
+- newアクション
+- editアクション
+- indexアクション
 
 # DB設計
 ## Usersテーブル
