@@ -37,6 +37,17 @@
 ## 実装予定の内容
 - 同じ要領で、全国の全ての飲食店で使える仕様にする予定です。
 
+# サイトURL紹介
+## URL
+- https://kusatumakita2.herokuapp.com/
+## テストアカウント
+### スタッフ用
+- メールアドレス： staff1@yahoo.co.jp
+- パスワード： staff1
+### お客さん用
+- メールアドレス： kyaku1@yahoo.co.jp
+- パスワード： kyaku1
+
 ## 使用言語
 Ruby, Ruby on Rails, RSpec, HTML, CSS
 
